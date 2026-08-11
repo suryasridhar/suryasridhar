@@ -12,6 +12,12 @@ The portfolio brings together work in quantitative research, financial risk, mod
 - Financial machine learning and NLP
 - Reliable data and analytics infrastructure
 
+## About me
+
+I am completing an M.S. in Financial Mathematics at NC State University after three years in Wells Fargo Corporate and Investment Banking Technology. My background spans quantitative modeling and the systems that make financial analysis usable, including Python, SQL, Java, Spring Boot, Kafka, REST APIs, machine learning, model diagnostics, monitoring, and production data workflows.
+
+I am particularly interested in quantitative research, model risk and validation, portfolio and risk analytics, and quantitative infrastructure roles where statistical judgment and implementation quality matter equally.
+
 ## Featured work
 
 | Project | Question addressed | Methods |
@@ -22,12 +28,6 @@ The portfolio brings together work in quantitative research, financial risk, mod
 | Options Market-Making Risk under Sparse Data | Can pricing and execution-risk estimates be trusted when the available trade sample is extremely limited? | Risk-neutral and physical measures, intensity modeling, bootstrap uncertainty decomposition, expected shortfall, quote-support diagnostics |
 | Crowded Ownership and Liquidity Stress | How does institutional ownership concentration affect liquidation losses under stressed market conditions? | Ownership networks, price-impact modeling, CCAR-style scenarios, concentration diagnostics, stress testing |
 | Entity Intelligence and Risk Screening | How can unstructured financial narratives be converted into source-backed entity-risk evidence? | Fine-tuned spaCy NER, SEC and GLEIF entity resolution, RapidFuzz, FinBERT, sanctions screening, FastAPI |
-
-## About me
-
-I am completing an M.S. in Financial Mathematics at NC State University after three years in Wells Fargo Corporate and Investment Banking Technology. My background spans quantitative modeling and the systems that make financial analysis usable, including Python, SQL, Java, Spring Boot, Kafka, REST APIs, machine learning, model diagnostics, monitoring, and production data workflows.
-
-I am particularly interested in quantitative research, model risk and validation, portfolio and risk analytics, and quantitative infrastructure roles where statistical judgment and implementation quality matter equally.
 
 ## What this site will contain
 
