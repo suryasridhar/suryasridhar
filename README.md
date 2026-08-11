@@ -37,12 +37,10 @@ I am particularly interested in quantitative research, model risk and validation
 - Explicit limitations, rejected specifications, and intended-use boundaries
 - Links to code, technical reports, notebooks, and project documentation
 
-## Current status
-
-The portfolio is being assembled. This repository currently serves as the GitHub Pages home and will be updated with the site implementation and individual project pages.
 
 ## Contact
 
+- Email: [ssridh28@ncsu.edu]mailto:ssridh28@ncsu.edu)
 - GitHub: [suryasridhar](https://github.com/suryasridhar)
 - Portfolio: [suryasridhar.github.io](https://suryasridhar.github.io)
 
